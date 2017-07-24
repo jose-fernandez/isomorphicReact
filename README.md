@@ -1,1 +1,1 @@
-# isomorphicReact
+# isomorphic Web App
